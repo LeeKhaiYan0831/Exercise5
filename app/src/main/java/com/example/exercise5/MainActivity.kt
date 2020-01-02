@@ -83,11 +83,4 @@ class MainActivity : AppCompatActivity() {
         countViewModel.setLike(getLike.toString().toInt())
         countViewModel.setDislike(getDislike.toString().toInt())
     }
-
-
-
-
-
-
-
 }
